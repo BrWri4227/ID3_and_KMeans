@@ -33,5 +33,3 @@ The iris dataset is a popular dataset that is used for classification and cluste
 3. To run the ID3 Algorithm:3
    ```
    py ID3.py
-
-
