@@ -27,9 +27,11 @@ The iris dataset is a popular dataset that is used for classification and cluste
    ```
    git clone https://github.com/BrWri4227/ID3_and_KMeans.git
 2. To run the K-means algorithm:
+   ```
    py KMeans.py
 
-3. To run the ID3 Algorithm:
+3. To run the ID3 Algorithm:3
+   ```
    py ID3.py
 
 
